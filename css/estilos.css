@@ -6,13 +6,13 @@ body
     font-family: "arial";
     font-size: 16px;
     margin: 0;
-    padding: 0;
+    padding: 1.0em;
 }
 #container
 {
     width: 70%;
     padding: 0;
-    text-align: centro;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
@@ -23,5 +23,13 @@ body
 }
 #post
 {
+    padding: 1em;
+}
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
